@@ -7,4 +7,4 @@ These are userspace commands to be used in sequence:
 
 3) echo elapsed | sudo tee /dev/stopwatch
 
-4)sudo dmesg 
+4) sudo dmesg 
