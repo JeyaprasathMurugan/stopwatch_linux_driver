@@ -1,3 +1,8 @@
+To install:
+
+1) open terminal and "cd" to your directory where the repository is cloned
+2) then type sudo insmod stopwatch.ko
+
 These are userspace commands to be used in sequence:
 
 
